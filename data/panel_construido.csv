@@ -1,0 +1,576 @@
+"ticker","nombre","sector","grupo_comparacion","fy","ppe_bruto","dep_acumulada","ppe_neto","costos_totales","dep_amort_anual","capex","inversion_pct_activos","costo_operativo_sin_dya"
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,4.971e+10,1.6723e+10,3.2987e+10,NA,NA,5.12e+08,0.0102997384832026,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,5.1684e+10,1.734e+10,3.4344e+10,NA,NA,1.6e+08,0.0030957356241777,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,5.374e+10,1.8066e+10,3.5674e+10,NA,NA,1.04e+08,0.0019352437662821,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,5.567e+10,1.8699e+10,3.6971e+10,NA,NA,1.55e+08,0.00278426441530447,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,5.7454e+10,1.8691e+10,3.8763e+10,NA,NA,1.9e+07,0.000330699342082362,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,6.0285e+10,1.9288e+10,4.0997e+10,NA,NA,9.4e+07,0.00155926018080783,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,63605900000,19970800000,43635100000,NA,NA,3.2e+07,0.000503097983048742,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,65481400000,19348200000,46133200000,NA,NA,64800000,0.000989593991576234,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,62036600000,16397300000,45639300000,NA,NA,5300000,8.54334376803371e-05,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,67428500000,1.7167e+10,50261500000,NA,NA,107900000,0.00160021355954826,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,73085200000,17986100000,55099100000,NA,NA,0,0,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,79145700000,19007600000,60138100000,NA,NA,0,0,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,8.4313e+10,20411400000,63901600000,NA,NA,NA,NA,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,86806400000,20805100000,66001300000,NA,NA,NA,NA,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,97021400000,23682300000,73339100000,NA,NA,NA,NA,NA
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,101246400000,NA,564300000,16156800000,3072800000,NA,NA,1.3084e+10
+"AEP","American Electric Power","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,1.08602e+11,NA,7.15e+08,1.5426e+10,2.927e+09,NA,NA,1.2499e+10
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,3.5448e+10,1.2174e+10,2.3274e+10,9.247e+09,1.533e+09,2.177e+09,0.0614139020537125,7.714e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,3.9036e+10,1.3444e+10,2.5592e+10,1.2411e+10,1.191e+09,3.315e+09,0.0849216108207808,1.122e+10
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,3.9855e+10,1.3142e+10,2.6713e+10,1.2229e+10,1.138e+09,3.837e+09,0.0962739932254422,1.1091e+10
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,4.2033e+10,1.332e+10,2.967e+10,1.1543e+10,1.035e+09,3.422e+09,0.0814122237289749,1.0508e+10
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,4.3364e+10,1.3548e+10,3.0773e+10,1.0885e+10,1.018e+09,3.652e+09,0.084217323125173,9.867e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,4.6969e+10,1.4341e+10,3.2628e+10,9.977e+09,1.127e+09,4.145e+09,0.0882496966084013,8.85e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,5.1406e+10,1.5136e+10,3.627e+10,9.804e+09,NA,4.065e+09,0.0790763724078901,NA
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,5.7776e+10,1.6222e+10,4.1554e+10,9.715e+09,NA,5.345e+09,0.0925124619219053,NA
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,6.9556e+10,1.9592e+10,4.9964e+10,8.147e+09,1.395e+09,5.575e+09,0.0801512450399678,6.752e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,7.4823e+10,2.1065e+10,5.3758e+10,8.289e+09,1.559e+09,6.085e+09,0.0813252609491734,6.73e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,7.6578e+10,2.2018e+10,5.456e+10,8.649e+09,1.905e+09,5.504e+09,0.0718744286870903,6.744e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,8.2043e+10,2.4843e+10,5.72e+10,8.186e+09,1.66e+09,NA,NA,6.526e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,8.2959e+10,2.5111e+10,5.7848e+10,1.2857e+10,2.283e+09,NA,NA,1.0574e+10
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,8.6503e+10,2.6729e+10,5.9774e+10,1.2117e+10,2.332e+09,NA,NA,9.785e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,7.5708e+10,2.3396e+10,5.2312e+10,9.423e+09,2.117e+09,NA,NA,7.306e+09
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,8.3417e+10,2.4637e+10,5.878e+10,1.2491e+10,NA,NA,NA,NA
+"D","Dominion Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,9.4844e+10,2.5982e+10,6.8862e+10,1.0979e+10,NA,NA,NA,NA
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,5.0304e+10,1.6268e+10,3.4036e+10,1.0222e+10,NA,3.125e+09,0.062122296437659,NA
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,5.5362e+10,1.7412e+10,3.795e+10,1.0765e+10,NA,4.386e+09,0.0792240164733933,NA
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,5.7597e+10,1.8195e+10,4.0344e+10,1.0518e+10,1.846e+09,4.296e+09,0.0745872180842752,8.672e+09
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,6.0377e+10,1.8709e+10,4.2661e+10,1.1964e+10,1.994e+09,4.803e+09,0.079550159829074,9.97e+09
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,1.00391e+11,3.1969e+10,6.8558e+10,1.176e+10,2.026e+09,4.363e+09,0.0434600711219133,9.734e+09
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,1.03115e+11,3.3625e+10,6.949e+10,1.5011e+10,2.652e+09,5.501e+09,0.0533482034621539,1.2359e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,1.04861e+11,3.4824e+10,7.0046e+10,1.7886e+10,3.229e+09,5.526e+09,0.0526983339849897,1.4657e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,1.09967e+11,3.6736e+10,7.3779e+10,1.7677e+10,3.507e+09,5.384e+09,0.048960142588231,1.417e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,1.21397e+11,NA,8.252e+10,1.7323e+10,3.613e+09,6.766e+09,0.0557344909676516,1.371e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,1.27507e+11,NA,8.6391e+10,1.7568e+10,3.88e+09,7.901e+09,0.0619652254386034,1.3688e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,1.34458e+11,NA,9.1694e+10,1.7968e+10,4.046e+09,8.052e+09,0.0598848711121689,1.3922e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,1.47654e+11,NA,1.02127e+11,1.9747e+10,4.696e+09,9.389e+09,0.0635878472645509,1.5051e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,1.5558e+11,NA,1.06782e+11,1.9366e+10,5.176e+09,1.1122e+10,0.0714873377040751,1.419e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,1.54496e+11,NA,1.05536e+11,1.8806e+10,5.486e+09,9.907e+09,0.0641246375310688,1.332e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,1.63839e+11,NA,1.11748e+11,1.9133e+10,5.663e+09,9.715e+09,0.0592960162110364,1.347e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,1.71353e+11,NA,1.15315e+11,2.2778e+10,5.843e+09,1.1367e+10,0.0663367434477365,1.6935e+10
+"DUK","Duke Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,1.78737e+11,NA,1.21626e+11,2.2042e+10,6.084e+09,1.2604e+10,0.0705170166221879,1.5958e+10
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,NA,5.1e+07,2.3863e+10,NA,7.91e+08,9e+06,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,NA,5.9e+07,2.5093e+10,NA,8.4e+08,2.8e+07,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,NA,6.8e+07,2.6939e+10,NA,NA,8e+07,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,NA,9e+07,2.8436e+10,NA,NA,1.52e+08,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,NA,9.1e+07,2.9827e+10,NA,NA,1.99e+08,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,NA,9.5e+07,3.2209e+10,NA,NA,1.8e+08,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,NA,1.4e+08,3.5216e+10,NA,NA,4.92e+08,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,NA,2.01e+08,3.76e+10,NA,NA,5.235e+09,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,NA,2.75e+08,4.1749e+10,NA,NA,3.606e+09,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,NA,3.91e+08,4.3889e+10,NA,NA,5.249e+09,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,NA,5.22e+08,4.6555e+10,NA,NA,3.676e+09,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,NA,6.26e+08,4.8596e+10,NA,NA,4.085e+09,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,NA,2.3e+07,4.6766e+10,NA,NA,NA,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,2.4e+07,4.9608e+10,NA,NA,NA,NA,NA
+"ED","Consolidated Edison","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,2.5e+07,5.2165e+10,NA,NA,NA,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,NA,NA,NA,NA,540800000,908146000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,NA,NA,NA,NA,623700000,954472000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,NA,NA,NA,NA,NA,1076730000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,NA,NA,NA,NA,NA,1472272000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,NA,NA,NA,NA,NA,1456787000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,NA,NA,NA,NA,625400000,1603744000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,NA,NA,NA,NA,688200000,1724139000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,NA,NA,NA,NA,787100000,1976867000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,NA,NA,NA,NA,863800000,2348105000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,NA,NA,NA,NA,1.072e+09,2569936000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,NA,NA,NA,NA,1080700000,2911489000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,NA,NA,NA,NA,1159100000,2942996000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,NA,NA,NA,NA,1.335e+09,3175080000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,NA,NA,NA,1643100000,3441852000,NA,NA
+"ES","Eversource Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,NA,NA,NA,815700000,4336849000,NA,NA
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,3.6364e+10,9.023e+09,2.7341e+10,1.356e+10,NA,3.117e+09,0.0857166428335717,NA
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,4.0005e+10,1.0064e+10,2.9941e+10,1.2568e+10,1.834e+09,3.273e+09,0.0818147731533558,1.0734e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,4.3529e+10,1.0959e+10,3.257e+10,1.3918e+10,2.075e+09,3.326e+09,0.0764088308943463,1.1843e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,5.737e+10,1.2184e+10,4.5186e+10,1.4583e+10,1.347e+09,4.042e+09,0.0704549416071117,1.3236e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,6.1043e+10,1.3713e+10,4.733e+10,2.1018e+10,1.881e+09,5.789e+09,0.0948347885916485,1.9137e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,6.6912e+10,1.4742e+10,5.217e+10,2.1242e+10,2.153e+09,5.395e+09,0.0806282879005261,1.9089e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,7.3814e+10,1.6375e+10,5.7439e+10,2.5039e+10,2.314e+09,6.077e+09,0.0823285555585661,2.2725e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,9.0724e+10,1.9169e+10,7.1555e+10,2.5056e+10,2.45e+09,7.624e+09,0.0840350954543451,2.2606e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,9.5266e+10,2.1064e+10,7.4202e+10,2.8106e+10,3.936e+09,8.553e+09,0.0897801944030399,2.417e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,9.9609e+10,2.2902e+10,7.6707e+10,2.9619e+10,3.828e+09,7.584e+09,0.0761376984007469,2.5791e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,1.04212e+11,2.3979e+10,8.0233e+10,3.2143e+10,4.353e+09,7.594e+09,0.0728706866771581,2.779e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,1.09311e+11,2.6727e+10,8.2584e+10,3.0096e+10,4.252e+09,7.248e+09,0.0663062271866509,2.5844e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,7.8988e+10,1.443e+10,6.4558e+10,1.4485e+10,2.891e+09,8.048e+09,0.101888894515623,1.1594e+10
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,8.5006e+10,1.593e+10,6.9076e+10,1.5256e+10,NA,7.981e+09,0.0938874902948027,NA
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,9.0844e+10,1.7251e+10,7.3593e+10,1.5761e+10,NA,7.147e+09,0.0786733301043547,NA
+"EXC","Exelon","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,9.6627e+10,1.8445e+10,7.8182e+10,1.7714e+10,NA,7.408e+09,0.0766659422314674,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,2.6482e+10,1.0821e+10,1.7723e+10,9.984e+09,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,2.7826e+10,1.1397e+10,1.9164e+10,1.0868e+10,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,3.0276e+10,1.1283e+10,2.051e+10,1.129e+10,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,4.0122e+10,1.1839e+10,3.0337e+10,1.1596e+10,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,4.321e+10,1.2467e+10,3.3036e+10,1.4428e+10,1.391e+09,NA,NA,1.3037e+10
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,4.4228e+10,1.328e+10,3.3252e+10,1.3121e+10,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,4.7484e+10,1.415e+10,3.5783e+10,1.331e+10,2.022e+09,NA,NA,1.1288e+10
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,4.9952e+10,1.516e+10,3.7214e+10,1.3987e+10,1.592e+09,NA,NA,1.2395e+10
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,4.3767e+10,1.5731e+10,2.9387e+10,1.2734e+10,1.826e+09,NA,NA,1.0908e+10
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,3.7113e+10,1.0011e+10,2.8101e+10,8.646e+09,1.974e+09,NA,NA,6.672e+09
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,3.9469e+10,1.0793e+10,2.9911e+10,8.5e+09,1.7e+09,NA,NA,6.8e+09
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,4.1767e+10,1.1427e+10,3.165e+10,8.759e+09,1.384e+09,NA,NA,7.375e+09
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,4.3726e+10,1.1938e+10,3.3294e+10,8.525e+09,1.217e+09,NA,NA,7.308e+09
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,4.6002e+10,1.2672e+10,3.4744e+10,8.628e+09,1.199e+09,NA,NA,7.429e+09
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,4.785e+10,1.3258e+10,3.6285e+10,9.406e+09,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,NA,NA,1.0549e+10,NA,NA,NA,NA
+"FE","FirstEnergy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,NA,NA,1.0604e+10,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,NA,NA,3.2411e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,5.0169e+10,NA,3.6078e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,5.4221e+10,NA,3.9075e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,5.7552e+10,NA,4.249e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,NA,NA,4.9413e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,6.4917e+10,NA,5.272e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,6.9448e+10,1.7934e+10,5.5705e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,7.3639e+10,1.8944e+10,6.1386e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,8.033e+10,NA,6.6912e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,8.6798e+10,NA,7.2289e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,9.3565e+10,NA,NA,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,1.07178e+11,NA,7.0334e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,1.18103e+11,NA,8.201e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,1.28247e+11,NA,9.1803e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,1.42322e+11,NA,9.9348e+10,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,1.59265e+11,NA,1.11059e+11,NA,NA,NA,NA,NA
+"NEE","NextEra Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,1.75011e+11,NA,1.25776e+11,NA,NA,NA,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,3.9833e+10,1.3572e+10,2.6261e+10,NA,NA,NA,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,4.308e+10,1.4188e+10,2.8892e+10,NA,NA,3.628e+09,0.0842154131847725,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,4.6289e+10,1.484e+10,3.1449e+10,NA,NA,3.958e+09,0.0855062757890644,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,4.9567e+10,1.5912e+10,3.3655e+10,NA,NA,3.802e+09,0.0767042588819174,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,5.4167e+10,1.6644e+10,3.7523e+10,NA,NA,4.038e+09,0.0745472335554858,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,5.9096e+10,1.7844e+10,4.1252e+10,NA,NA,4.624e+09,0.0782455665358062,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,6.3062e+10,1.9121e+10,4.3941e+10,NA,NA,5.207e+09,0.0825695347435857,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,6.7342e+10,2.0619e+10,4.6723e+10,NA,NA,4.833e+09,0.0717679902586796,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,7.2595e+10,2.2014e+10,5.0581e+10,NA,NA,5.173e+09,0.0712583511261106,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,7.7248e+10,2.3459e+10,5.3789e+10,NA,NA,5.709e+09,0.073904826014913,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,8.3272e+10,2.4715e+10,5.8557e+10,NA,NA,5.641e+09,0.0677418580074935,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,8.809e+10,2.6455e+10,6.1635e+10,NA,NA,6.514e+09,0.073947099557271,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,NA,NA,NA,NA,NA,6.313e+09,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,NA,NA,NA,NA,NA,7.69e+09,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,NA,NA,NA,NA,NA,7.689e+09,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,NA,NA,NA,NA,9.584e+09,NA,NA
+"PCG","PG&E Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,1.18262e+11,NA,NA,NA,NA,9.714e+09,0.0821396560179939,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,2.0257e+10,7.882e+09,NA,NA,NA,1.657e+09,0.0817988843362788,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,NA,5.383e+09,1.3174e+10,NA,NA,1.418e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,NA,5.44e+09,2.0823e+10,NA,NA,1.225e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,NA,5.676e+09,2.7266e+10,NA,NA,1.597e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,NA,5.942e+09,3.0032e+10,NA,NA,2.487e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,NA,6.172e+09,3.3087e+10,NA,NA,3.105e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,NA,1.62e+08,2.8169e+10,NA,NA,3.629e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,NA,1.65e+08,3.0382e+10,NA,NA,3.674e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,NA,1.34e+08,3.0074e+10,NA,NA,3.533e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,NA,1.1e+08,3.3092e+10,NA,NA,2.92e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,NA,1.01e+08,3.4458e+10,NA,NA,3.133e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,NA,3.7e+07,2.45e+10,NA,NA,2.243e+09,NA,NA
+"PPL","PPL Corporation","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,2.9e+07,3.3149e+10,NA,NA,2.39e+09,NA,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,5.0618e+10,1.8286e+10,3.5878e+10,1.2027e+10,NA,3.546e+09,0.0700541309415623,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,5.3588e+10,1.9121e+10,3.923e+10,1.3621e+10,NA,3.961e+09,0.073915802045234,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,5.6731e+10,2.0174e+10,4.2002e+10,1.2475e+10,NA,4.67e+09,0.0823183092136574,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,5.9744e+10,2.1154e+10,4.501e+10,1.3654e+10,NA,4.086e+09,0.0683918050348152,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,6.3251e+10,2.1964e+10,4.839e+10,1.3426e+10,NA,4.525e+09,0.0715403709032268,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,6.6021e+10,2.3059e+10,5.1208e+10,1.2074e+10,NA,4.809e+09,0.0728404598536829,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,7.0013e+10,2.4059e+10,5.4868e+10,1.3832e+10,NA,5.331e+09,0.0761430020139117,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,7.5118e+10,2.4253e+10,6.1114e+10,1.4825e+10,NA,5.246e+09,0.0698367901168828,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,9.8416e+10,2.9852e+10,7.8446e+10,1.3207e+10,NA,5.674e+09,0.0576532271175419,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,1.03542e+11,3.1457e+10,7.9872e+10,1.541e+10,NA,7.31e+09,0.0705993703038381,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,1.03706e+11,3.1038e+10,8.0797e+10,2.0698e+10,NA,7.423e+09,0.0715773436445336,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,1.05114e+11,3.0765e+10,8.308e+10,1.9304e+10,NA,8.001e+09,0.0761173582967064,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,1.10516e+11,3.2397e+10,8.7634e+10,1.3683e+10,NA,7.555e+09,0.0683611422780412,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,1.15592e+11,3.4079e+10,9.1108e+10,1.549e+10,NA,7.522e+09,0.065073707523012,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,1.17529e+11,3.5297e+10,9.457e+10,1.9415e+10,NA,7.586e+09,0.0645457716818828,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,NA,NA,2.3909e+10,NA,7.923e+09,NA,NA
+"SO","Southern Company","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,NA,NA,1.9427e+10,NA,9.095e+09,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,NA,3312900000,8502600000,NA,NA,NA,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,NA,3431900000,9015800000,NA,NA,NA,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,NA,3.624e+09,9601500000,NA,3.43e+08,NA,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,NA,3797800000,10160400000,NA,305600000,NA,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,NA,4.036e+09,10572200000,NA,330200000,830800000,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,NA,4257100000,10906600000,NA,364200000,7.07e+08,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,NA,4485100000,11257700000,NA,340100000,725200000,NA,NA
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,NA,7919100000,19189700000,3.885e+09,391400000,761200000,NA,3493600000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,NA,8214600000,19915500000,4675600000,561800000,1266200000,NA,4113800000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,NA,8618500000,2.1347e+10,5.776e+09,762600000,1423700000,NA,5013400000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,NA,8515900000,22000900000,5872400000,798600000,1959500000,NA,5073800000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,NA,8878700000,23620100000,6211100000,845800000,2417100000,NA,5365300000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,NA,9364700000,25707400000,5991700000,926300000,2.529e+09,NA,5065400000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,NA,9889300000,26982400000,5535600000,975900000,2874300000,NA,4559700000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,NA,10383800000,29113800000,6601100000,1074300000,NA,NA,5526800000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,NA,11073100000,31581500000,7673200000,1122600000,NA,NA,6550600000
+"WEC","WEC Energy Group","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,NA,11611900000,34645400000,6.985e+09,1264200000,NA,NA,5720800000
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2009,NA,NA,17688720000,8683097000,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2010,28983171000,10776667000,18508296000,9812365000,NA,0,0,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2011,31435251000,11068820000,20663082000,8175731000,NA,0,0,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2012,33714367000,11658351000,22353367000,8690978000,NA,732495000,0.0217264942272237,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2013,35511843000,12048697000,23809348000,8873168000,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2014,38386353000,12608305000,26122159000,8305540000,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2015,41535142000,13168418000,28756916000,9067367000,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2016,44413513000,13591259000,31205851000,9738005000,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2017,4.6832e+10,1.4381e+10,3.2842e+10,9.024e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2018,4.8927e+10,1.5e+10,3.4329e+10,8.867e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2019,5.2249e+10,1.5659e+10,3.6944e+10,9.181e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2020,5.5844e+10,1.6735e+10,3.9483e+10,9.572e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2021,5.9296e+10,1.6657e+10,4.295e+10,9.425e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2022,6.2209e+10,1.706e+10,4.5457e+10,9.41e+09,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2023,6.5464e+10,1.7502e+10,4.8253e+10,1.1228e+10,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2024,6.9692e+10,1.8399e+10,5.1642e+10,1.2882e+10,NA,NA,NA,NA
+"XEL","Xcel Energy","Electrico","Servicios regulados / redes (Electrico + Telecom)",2025,7.6653e+10,1.9852e+10,5.7198e+10,1.1725e+10,NA,NA,NA,NA
+"APA","APA Corporation (Apache)","Oil & Gas","Oil & Gas",2021,NA,NA,NA,9.561e+09,2.68e+09,NA,NA,6.881e+09
+"APA","APA Corporation (Apache)","Oil & Gas","Oil & Gas",2022,NA,NA,NA,9.148e+09,1.772e+09,NA,NA,7.376e+09
+"APA","APA Corporation (Apache)","Oil & Gas","Oil & Gas",2023,NA,NA,NA,6.037e+09,1.36e+09,NA,NA,4.677e+09
+"APA","APA Corporation (Apache)","Oil & Gas","Oil & Gas",2024,NA,NA,NA,6.398e+09,1.233e+09,NA,NA,5.165e+09
+"APA","APA Corporation (Apache)","Oil & Gas","Oil & Gas",2025,NA,NA,NA,5.309e+09,1.54e+09,NA,NA,3.769e+09
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2017,4.39e+09,2.065e+09,2.554e+09,1.6826e+10,5.3e+08,NA,NA,1.6296e+10
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2018,9.776e+09,2.817e+09,2.325e+09,1.2625e+10,5.5e+08,NA,NA,1.2075e+10
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2019,9.853e+09,3.625e+09,6.959e+09,1.7463e+10,1.103e+09,NA,NA,1.636e+10
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2020,1.0624e+10,4.384e+09,6.228e+09,NA,1.486e+09,NA,NA,NA
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2021,1.0473e+10,5.115e+09,6.24e+09,NA,1.418e+09,NA,NA,NA
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2022,9.88e+09,5.003e+09,4.877e+09,NA,1.317e+09,NA,NA,NA
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2023,9.659e+09,5.121e+09,4.538e+09,1.9192e+10,1.105e+09,NA,NA,1.8087e+10
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2024,1.057e+10,5.678e+09,4.893e+09,1.9971e+10,1.061e+09,NA,NA,1.891e+10
+"BKR","Baker Hughes","Oil & Gas","Oil & Gas",2025,1.1183e+10,6.056e+09,5.127e+09,NA,1.087e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2009,NA,NA,8.3947e+10,NA,8.298e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2010,1.41242e+11,5.3534e+10,8.7708e+10,NA,9.012e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2011,1.43225e+11,6.0671e+10,8.2554e+10,NA,9.295e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2012,1.49209e+11,6.5029e+10,8.418e+10,4.546e+10,8.004e+09,NA,NA,3.7456e+10
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2013,1.26179e+11,5.8916e+10,6.7263e+10,5.0673e+10,6.827e+09,NA,NA,4.3846e+10
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2014,1.38148e+11,6.5321e+10,7.2827e+10,4.6581e+10,6.58e+09,NA,NA,4.0001e+10
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2015,1.4623e+11,7.0786e+10,7.5444e+10,4.3802e+10,7.434e+09,NA,NA,3.6368e+10
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2016,1.36859e+11,7.0413e+10,6.6446e+10,4.6127e+10,8.329e+09,NA,NA,3.7798e+10
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2017,1.31406e+11,7.3075e+10,5.8331e+10,NA,9.113e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2018,1.10431e+11,6.4748e+10,4.5683e+10,NA,9.062e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2019,1.10597e+11,6.4899e+10,4.5698e+10,NA,6.845e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2020,9.7746e+10,5.5477e+10,4.2269e+10,NA,5.956e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2021,1.02106e+11,6.2213e+10,3.9893e+10,NA,6.09e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2022,NA,NA,NA,NA,5.521e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2023,NA,NA,NA,NA,7.208e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2024,NA,NA,NA,NA,7.504e+09,NA,NA,NA
+"COP","ConocoPhillips","Oil & Gas","Oil & Gas",2025,NA,8.1072e+10,NA,NA,8.27e+09,NA,NA,NA
+"CVX","Chevron","Oil & Gas","Oil & Gas",2009,NA,8.1519e+10,NA,1.8863e+11,8.708e+09,NA,NA,1.79922e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2010,1.73299e+11,9.182e+10,9.178e+10,2.29948e+11,9.528e+09,NA,NA,2.2042e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2011,1.88288e+11,1.02863e+11,9.6468e+10,1.53108e+11,1.211e+10,NA,NA,1.40998e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2012,2.07367e+11,1.10824e+11,1.04504e+11,1.72873e+11,1.3063e+10,NA,NA,1.5981e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2013,2.33432e+11,1.22133e+11,1.22608e+11,2.06072e+11,1.2911e+10,NA,NA,1.93161e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2014,2.63481e+11,1.31604e+11,1.41348e+11,1.95577e+11,1.3413e+10,NA,NA,1.82164e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2015,2.96433e+11,1.44116e+11,1.64829e+11,1.92943e+11,1.4186e+10,NA,NA,1.78757e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2016,3.27289e+11,1.51881e+11,1.83173e+11,1.80768e+11,1.6793e+10,NA,NA,1.63975e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2017,3.40277e+11,1.53891e+11,1.88396e+11,1.33635e+11,2.1037e+10,NA,NA,1.12598e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2018,3.36077e+11,1.66773e+11,1.82186e+11,1.16632e+11,1.9457e+10,NA,NA,9.7175e+10
+"CVX","Chevron","Oil & Gas","Oil & Gas",2019,3.44485e+11,1.71037e+11,1.77712e+11,1.32501e+11,1.9349e+10,NA,NA,1.13152e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2020,3.40244e+11,NA,1.69207e+11,1.45764e+11,1.9419e+10,NA,NA,1.26345e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2021,3.26722e+11,NA,1.50494e+11,1.4098e+11,2.9218e+10,NA,NA,1.11762e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2022,3.45232e+11,NA,1.56618e+11,1.02145e+11,1.9508e+10,NA,NA,8.2637e+10
+"CVX","Chevron","Oil & Gas","Oil & Gas",2023,NA,NA,NA,1.40826e+11,1.7925e+10,NA,NA,1.22901e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2024,NA,NA,NA,1.96578e+11,1.6319e+10,NA,NA,1.80259e+11
+"CVX","Chevron","Oil & Gas","Oil & Gas",2025,NA,NA,NA,1.71365e+11,1.7326e+10,NA,NA,1.54039e+11
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2009,5.3391e+10,3.136e+10,2.2031e+10,6.648e+09,2.613e+09,5.71e+09,0.10694686370362,4.035e+09
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2010,6.0475e+10,4.1708e+10,1.8767e+10,1.8018e+10,3.203e+09,8.843e+09,0.146225713104589,1.4815e+10
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2011,6.3875e+10,4.4223e+10,NA,1.2541e+10,2.108e+09,NA,NA,1.0433e+10
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2012,7.0776e+10,4.6002e+10,1.9652e+10,6.372e+09,1.93e+09,NA,NA,4.442e+09
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2013,7.8348e+10,5.1032e+10,2.4774e+10,NA,2.248e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2014,8.2981e+10,5.4534e+10,2.7316e+10,9.427e+09,2.811e+09,NA,NA,6.616e+09
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2015,8.8185e+10,5.1889e+10,2.8447e+10,9.83e+09,2.78e+09,2.56e+08,0.00290298803651415,7.05e+09
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2016,9.1154e+10,7.2086e+10,3.6296e+10,1.594e+10,3.319e+09,6.462e+09,0.0708910195932159,1.2621e+10
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2017,NA,NA,2.0986e+10,NA,4.022e+09,1.107e+09,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2018,NA,NA,1.4276e+10,NA,1.592e+09,8.49e+08,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2019,NA,NA,8.462e+09,NA,1.008e+09,4.4e+07,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2020,NA,NA,8.593e+09,NA,1.228e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2021,NA,NA,5.393e+09,NA,1.497e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2022,NA,NA,1.5008e+10,NA,1.3e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2023,NA,NA,1.8106e+10,NA,2.158e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2024,NA,NA,1.9328e+10,NA,2.223e+09,NA,NA,NA
+"DVN","Devon Energy","Oil & Gas","Oil & Gas",2025,NA,NA,2.5011e+10,NA,2.554e+09,NA,NA,NA
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2009,21861517000,8204215000,NA,2590907000,1065545000,NA,NA,1525362000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2010,25964443000,9825218000,13657302000,3359958000,1326875000,NA,NA,2033083000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2011,30996882000,12315982000,16139225000,3816118000,1549188000,NA,NA,2266930000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2012,35814424000,14525600000,18680900000,5576577000,1941926000,NA,NA,3634651000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2013,40866917000,17529236000,21288824000,8012806000,2516381000,NA,NA,5496425000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2014,45788888000,19640052000,23337681000,10202839000,3169703000,NA,NA,7033136000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2015,50254490000,21081846000,26148836000,10811907000,3600976000,NA,NA,7210931000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2016,54599851000,30389130000,29172644000,12793517000,3997041000,NA,NA,8796476000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2017,53600655000,27893577000,24210721000,15443507000,3313644000,NA,NA,12129863000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2018,56516500000,30851463000,25707078000,8875913000,3553417000,NA,NA,5322496000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2019,61550681000,33475162000,25665037000,10281918000,3409387000,NA,NA,6872531000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2020,67302661000,36938066000,28075519000,12806053000,3435408000,NA,NA,9370645000
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2021,6.9272e+10,4.0673e+10,3.0364e+10,1.3681e+10,3.75e+09,NA,NA,9.931e+09
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2022,7.2397e+10,4.3971e+10,NA,1.1576e+10,3.4e+09,NA,NA,8.176e+09
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2023,7.2108e+10,4.2679e+10,2.8426e+10,1.254e+10,3.651e+09,NA,NA,8.889e+09
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2024,7.7587e+10,4.529e+10,2.9429e+10,1.5736e+10,3.542e+09,NA,NA,1.2194e+10
+"EOG","EOG Resources","Oil & Gas","Oil & Gas",2025,8.3509e+10,4.9297e+10,3.2297e+10,1.4583e+10,3.492e+09,NA,NA,1.1091e+10
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2009,NA,NA,16732800000,25529300000,NA,2.764e+09,NA,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2010,21509600000,3820400000,NA,33763700000,NA,2539600000,0.11806821140328,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2011,23913400000,4580500000,17689200000,23748600000,NA,1584300000,0.0662515577040488,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2012,27429600000,5.238e+09,19332900000,31654100000,NA,2040800000,0.0744013766150436,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2013,30955400000,6.109e+09,22191600000,41500300000,NA,3867500000,0.124937813757858,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2014,34017600000,7.071e+09,24846400000,39538200000,NA,3621900000,0.106471356003951,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2015,38046700000,8165100000,26946600000,4.4427e+10,NA,3408200000,0.0895793853343391,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2016,40611900000,8577200000,29881600000,4.4435e+10,NA,2892900000,0.0712328159972816,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2017,43003300000,9710800000,32034700000,23861300000,NA,3830700000,0.0890792102001474,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2018,46545200000,10924800000,33292500000,19803600000,NA,2984100000,0.0641118740493112,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2019,50897200000,12159600000,35620400000,25738600000,NA,3101800000,0.0609424487005179,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2020,5.5285e+10,13681600000,38737600000,31605600000,NA,4223200000,0.0763896174369178,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2021,57497500000,15584700000,41603400000,27273500000,NA,4531700000,0.0788156006782904,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2022,5.9085e+10,1.7083e+10,4.1913e+10,2.2591e+10,NA,3.288e+09,0.0556486417872556,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2023,6.3122e+10,1.88e+10,4.2088e+10,3.5287e+10,NA,2.223e+09,0.0352175152878553,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2024,6.6217e+10,2.0462e+10,4.5804e+10,5.1743e+10,NA,1.964e+09,0.0296600570850386,NA
+"EPD","Enterprise Products Partners","Oil & Gas","Oil & Gas",2025,7.1203e+10,NA,4.9062e+10,4.3248e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2010,10117041000,1052566000,9064475000,8194464000,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2011,13284430000,1431698000,11852732000,4306897000,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2012,1.653e+10,1.971e+09,1.4559e+10,5.512e+09,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2013,3.0388e+10,2.104e+09,2.8284e+10,6.953e+09,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2014,3.3917e+10,3.235e+09,3.0682e+10,1.5604e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2015,4.5018e+10,4.726e+09,4.0292e+10,4.6784e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2016,5.4979e+10,6.296e+09,4.8683e+10,5.3221e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2017,6.1562e+10,7.984e+09,5.3578e+10,3.3809e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2018,7.1177e+10,1.0089e+10,6.1088e+10,2.9941e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2019,7.9776e+10,1.2813e+10,6.6963e+10,3.7802e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2020,8.979e+10,1.5597e+10,7.4193e+10,4.8684e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2021,9.4115e+10,1.9008e+10,7.5107e+10,4.701e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2022,1.03991e+11,2.2384e+10,8.1607e+10,3.5974e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2023,1.05996e+11,2.5685e+10,8.0311e+10,5.8625e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2024,1.14932e+11,2.9581e+10,8.5351e+10,8.2138e+10,NA,NA,NA,NA
+"ET","Energy Transfer","Oil & Gas","Oil & Gas",2025,1.29242e+11,3.403e+10,9.5212e+10,7.0291e+10,NA,NA,NA,NA
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2012,NA,119699000,221149000,NA,8145000,NA,NA,NA
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2013,NA,145837000,554242000,NA,15601000,NA,NA,NA
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2014,NA,212236000,1446337000,NA,26273000,NA,NA,NA
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2015,NA,382144000,2791807000,NA,66597000,NA,NA,NA
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2016,NA,1413543000,2597625000,283048000,170005000,NA,NA,113043000
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2017,NA,1836056000,3390857000,1187002000,217697000,NA,NA,969305000
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2018,NA,2161372000,7343617000,595724000,178015000,NA,NA,417709000
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2019,NA,2.774e+09,2.0372e+10,6e+08,3.27e+08,NA,NA,2.73e+08
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2020,NA,5.003e+09,2.1835e+10,1.165e+09,6.23e+08,NA,NA,5.42e+08
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2021,NA,1.2314e+10,1.6214e+10,3.269e+09,1.454e+09,NA,NA,1.815e+09
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2022,NA,1.3545e+10,2.0619e+10,8.289e+09,1.311e+09,NA,NA,6.978e+09
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2023,NA,1.4844e+10,2.3759e+10,2.796e+09,1.275e+09,NA,NA,1.521e+09
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2024,NA,1.6429e+10,2.6674e+10,3.135e+09,1.344e+09,NA,NA,1.791e+09
+"FANG","Diamondback Energy","Oil & Gas","Oil & Gas",2025,NA,1.9208e+10,6.4472e+10,3.842e+09,1.746e+09,NA,NA,2.096e+09
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2009,NA,4.566e+09,4.782e+09,1.1766e+10,NA,NA,NA,NA
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2010,1.0989e+10,5.23e+09,5.759e+09,1.4269e+10,NA,NA,NA,NA
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2011,1.2906e+10,6.064e+09,6.842e+09,1.2681e+10,9.31e+08,NA,NA,1.175e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2012,1.5588e+10,7.096e+09,8.492e+09,1.4964e+10,1.119e+09,NA,NA,1.3845e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2013,1.8313e+10,8.056e+09,1.0257e+10,2.0092e+10,1.359e+09,NA,NA,1.8733e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2014,2.0802e+10,9.48e+09,1.1322e+10,2.4344e+10,1.628e+09,NA,NA,2.2716e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2015,2.3482e+10,1.1007e+10,1.2475e+10,2.6264e+10,1.9e+09,NA,NA,2.4364e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2016,2.3693e+10,1.1576e+10,1.2117e+10,2.7773e+10,2.126e+09,NA,NA,2.5647e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2017,1.973e+10,1.1198e+10,8.532e+09,2.3798e+10,1.835e+09,NA,NA,2.1963e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2018,2.077e+10,1.2249e+10,8.521e+09,2.2657e+10,1.503e+09,NA,NA,2.1154e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2019,2.2026e+10,1.3153e+10,8.873e+09,1.9246e+10,1.556e+09,NA,NA,1.769e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2020,1.994e+10,1.263e+10,7.31e+09,2.1528e+10,1.606e+09,NA,NA,1.9922e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2021,1.5364e+10,1.1039e+10,4.325e+09,2.2856e+10,1.625e+09,NA,NA,2.1231e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2022,1.5768e+10,1.1442e+10,4.326e+09,1.6881e+10,1.058e+09,NA,NA,1.5823e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2023,1.6008e+10,1.166e+10,4.348e+09,1.3495e+10,9.04e+08,NA,NA,1.2591e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2024,1.6964e+10,1.2064e+10,4.9e+09,1.759e+10,9.4e+08,NA,NA,1.665e+10
+"HAL","Halliburton","Oil & Gas","Oil & Gas",2025,1.7574e+10,1.2461e+10,5.113e+09,1.8935e+10,9.98e+08,NA,NA,1.7937e+10
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2011,NA,NA,17070700000,5.778e+09,1070200000,1324300000,NA,4707800000
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2012,NA,-3.912e+09,1.7926e+10,6.719e+09,1.056e+09,1.006e+09,NA,5.663e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2013,NA,NA,3.0996e+10,6.52e+09,1.068e+09,1.2e+09,NA,5.452e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2014,NA,NA,3.5847e+10,7.38e+09,1.419e+09,2.022e+09,NA,5.961e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2015,NA,NA,3.8564e+10,1.008e+10,1.806e+09,3.369e+09,NA,8.274e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2016,NA,NA,4.0547e+10,1.1778e+10,2.04e+09,3.617e+09,NA,9.738e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2017,NA,NA,3.8705e+10,1.1956e+10,2.309e+09,3.896e+09,NA,9.647e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2018,NA,1.4175e+10,4.0155e+10,9.52e+09,2.209e+09,2.882e+09,NA,7.311e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2019,NA,1.5359e+10,3.7897e+10,1.0176e+10,2.261e+09,3.188e+09,NA,7.915e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2020,NA,1.695e+10,3.6419e+10,1.035e+10,2.297e+09,2.904e+09,NA,8.053e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2021,NA,1.7818e+10,3.5836e+10,8.336e+09,2.411e+09,2.27e+09,NA,5.925e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2022,NA,NA,3.5653e+10,1.014e+10,2.164e+09,1.707e+09,NA,7.976e+09
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2023,NA,NA,3.5599e+10,1.3694e+10,2.135e+09,1.281e+09,NA,1.1559e+10
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2024,NA,NA,3.7297e+10,1.5135e+10,2.186e+09,1.621e+09,NA,1.2949e+10
+"KMI","Kinder Morgan","Oil & Gas","Oil & Gas",2025,NA,NA,3.8013e+10,1.1071e+10,2.25e+09,2.317e+09,NA,8.821e+09
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2012,NA,NA,2107129000,NA,63251000,NA,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2013,NA,NA,3282305000,NA,63405000,NA,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2014,NA,NA,6454399000,NA,NA,1117956000,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2015,NA,NA,9246753000,NA,61209000,3114343000,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2016,NA,NA,16193907000,NA,64258000,2829558000,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2017,NA,NA,2.0635e+10,NA,8.3e+07,6.853e+09,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2018,NA,NA,2.3978e+10,NA,1.74e+08,4.356e+09,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2019,NA,NA,2.7245e+10,NA,3.56e+08,3.357e+09,NA,NA
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2020,NA,NA,2.9673e+10,5.963e+09,4.49e+08,3.643e+09,NA,5.514e+09
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2021,NA,NA,3.0421e+10,7.369e+09,7.94e+08,3.056e+09,NA,6.575e+09
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2022,NA,NA,3.0288e+10,6.727e+09,9.32e+08,1.839e+09,NA,5.795e+09
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2023,NA,NA,3.1528e+10,1.6565e+10,1.011e+09,9.66e+08,NA,1.5554e+10
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2024,NA,NA,3.2456e+10,2.8869e+10,1.119e+09,1.83e+09,NA,2.775e+10
+"LNG","Cheniere Energy","Oil & Gas","Oil & Gas",2025,NA,NA,3.3552e+10,4.905e+09,1.196e+09,2.121e+09,NA,3.709e+09
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2011,1.6624e+10,4.9e+09,1.1724e+10,4.4985e+10,6.7e+08,2.891e+09,0.173905197305101,4.4315e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2012,1.8073e+10,5.845e+09,1.2228e+10,6.1594e+10,9.41e+08,1.217e+09,0.0673380180379572,6.0653e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2013,1.9409e+10,6.766e+09,1.2643e+10,7.5014e+10,8.91e+08,1.185e+09,0.0610541501365346,7.4123e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2014,2.1793e+10,7.872e+09,1.3921e+10,7.7145e+10,9.95e+08,1.369e+09,0.0628183361629881,7.615e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2015,2.5302e+10,9.041e+09,1.6261e+10,9.6829e+10,1.22e+09,1.206e+09,0.0476642162674887,9.5609e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2016,3.5604e+10,1.044e+10,2.5164e+10,9.4051e+10,1.326e+09,1.48e+09,0.0415683631052691,9.2725e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2017,3.8006e+10,1.2241e+10,2.5765e+10,6.7566e+10,1.502e+09,1.998e+09,0.0525706467399884,6.6064e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2018,4.0538e+10,1.4095e+10,2.6443e+10,6.0978e+10,2.001e+09,2.892e+09,0.0713404706694953,5.8977e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2019,6.1213e+10,1.6155e+10,4.5058e+10,7.1351e+10,2.114e+09,2.732e+09,0.0446310424256285,6.9237e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2020,5.7586e+10,1.6716e+10,4.087e+10,8.1899e+10,2.17e+09,3.179e+09,0.0552043899558921,7.9729e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2021,NA,NA,NA,1.07403e+11,3.225e+09,4.81e+09,NA,1.04178e+11
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2022,NA,NA,NA,8.1279e+10,3.375e+09,2.787e+09,NA,7.7904e+10
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2023,NA,NA,NA,1.1663e+11,3.364e+09,1.464e+09,NA,1.13266e+11
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2024,NA,NA,NA,1.58483e+11,3.215e+09,2.42e+09,NA,1.55268e+11
+"MPC","Marathon Petroleum","Oil & Gas","Oil & Gas",2025,NA,NA,NA,1.35793e+11,3.307e+09,1.89e+09,NA,1.32486e+11
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2009,9476619000,2212850000,7263769000,NA,227964000,883703000,0.0932508735446682,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2010,10145800000,2352142000,7793658000,NA,243927000,1473136000,0.145196633089554,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2011,9853821000,2540873000,7312948000,NA,288923000,791245000,0.0802982924085997,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2012,11177934000,2733601000,8444333000,NA,307224000,582748000,0.0521337842932334,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2013,13088991000,2974651000,10114340000,NA,312160000,1336067000,0.102075629817455,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2014,10970256000,1738302000,9231954000,NA,205334000,1866153000,0.170110250845559,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2015,13602647000,1940210000,11662437000,NA,239343000,2256585000,0.165893079486662,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2016,14530460000,2156471000,12373989000,NA,294684000,1779150000,0.122442785706715,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2017,15078497000,2507094000,12571403000,NA,354620000,1188312000,0.0788083852123988,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2018,15559667000,2861541000,12698126000,NA,391585000,624634000,0.0401444323969144,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2019,18030963000,3264312000,14766651000,NA,406335000,512393000,0.0284173951219355,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2020,22051492000,3702807000,18348685000,NA,428557000,2141475000,0.0971124765616766,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2021,23072935000,3918007000,19154928000,NA,476535000,3848349000,0.166790614197977,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2022,23820539000,4500665000,19319874000,NA,578662000,2195381000,0.0921633637257327,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2023,2.5015e+10,5.063e+09,1.9952e+10,NA,6.22e+08,6.97e+08,0.0278632820307815,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2024,3.8454e+10,5.757e+09,3.2697e+10,NA,6.26e+08,1.202e+09,0.0312581265928122,NA
+"OKE","ONEOK","Oil & Gas","Oil & Gas",2025,5.2274e+10,6.339e+09,4.5935e+10,NA,7.69e+08,1.595e+09,0.0305123005700731,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2009,4.8728e+10,1.6462e+10,NA,NA,2.379e+09,3.36e+09,0.0689541947135117,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2010,4.8811e+10,1.7674e+10,2.95e+10,NA,2.396e+09,4.126e+09,0.0845301264059331,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2011,5.6957e+10,2.0421e+10,3.1137e+10,NA,2.687e+09,3.245e+09,0.0569728040451569,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2012,6.9371e+10,2.3687e+10,3.6536e+10,NA,3.153e+09,3.94e+09,0.0567960675210102,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2013,8.0096e+10,2.8032e+10,4.5684e+10,NA,3.591e+09,7.518e+09,0.0938623651618058,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2014,8.9052e+10,3.3231e+10,5.2064e+10,NA,3.585e+09,7.874e+09,0.0884202488433724,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2015,7.4515e+10,3.4785e+10,5.5821e+10,NA,4.203e+09,7.357e+09,0.098731798966651,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2016,7.1058e+10,3.9419e+10,3.973e+10,NA,4.261e+09,8.93e+09,0.125671986264741,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2017,7.1293e+10,3.8956e+10,3.1639e+10,NA,4.544e+09,5.272e+09,0.0739483539758462,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2018,7.0246e+10,3.9072e+10,3.2337e+10,NA,4.268e+09,2.717e+09,0.0386783589101159,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2019,7.442e+10,4.2983e+10,3.1174e+10,NA,4.002e+09,3.599e+09,0.0483606557377049,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2020,NA,NA,NA,NA,3.977e+09,4.975e+09,NA,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2021,NA,NA,NA,NA,6.14e+09,6.367e+09,NA,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2022,NA,NA,NA,NA,8.097e+09,2.535e+09,NA,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2023,NA,NA,NA,NA,8.447e+09,2.87e+09,NA,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2024,NA,NA,NA,NA,6.926e+09,4.497e+09,NA,NA
+"OXY","Occidental Petroleum","Oil & Gas","Oil & Gas",2025,NA,NA,NA,NA,6.449e+09,5.696e+09,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2012,2.3156e+10,8.385e+09,1.4771e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2013,2.3829e+10,8.422e+09,1.5407e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2014,2.4426e+10,9.028e+09,1.5398e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2015,2.7145e+10,9.799e+09,1.7346e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2016,3.031e+10,1.0589e+10,1.9721e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2017,3.1989e+10,1.1134e+10,2.0855e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2018,3.3742e+10,1.2282e+10,2.146e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2019,3.5197e+10,1.3179e+10,2.2018e+10,NA,NA,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2020,NA,NA,NA,NA,1.356e+09,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2021,NA,NA,NA,NA,1.341e+09,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2022,NA,NA,NA,NA,1.395e+09,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2023,NA,NA,NA,NA,1.605e+09,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2024,NA,NA,NA,NA,1.629e+09,NA,NA,NA
+"PSX","Phillips 66","Oil & Gas","Oil & Gas",2025,NA,NA,NA,NA,1.977e+09,NA,NA,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2009,NA,NA,9.69e+09,NA,1.954e+09,2.931e+09,NA,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2010,2.1505e+10,1.1845e+10,9.66e+09,NA,2.269e+09,3.723e+09,0.173122529644269,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2011,2.6679e+10,1.4608e+10,NA,NA,2.476e+09,2.395e+09,0.0897709809213239,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2012,2.9551e+10,1.6558e+10,1.2071e+10,NA,2.757e+09,2.912e+09,0.0985415045176136,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2013,3.3168e+10,1.8388e+10,1.2993e+10,NA,3.274e+09,4.004e+09,0.120718765074771,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2014,3.5164e+10,2.0068e+10,1.478e+10,NA,3.647e+09,4.694e+09,0.13348879535889,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2015,3.6964e+10,2.1568e+10,1.5096e+10,NA,3.879e+09,3.943e+09,0.106671355913862,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2016,3.712e+10,2.3705e+10,1.5396e+10,NA,4.094e+09,3.976e+09,0.107112068965517,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2017,4.0008e+10,2.7187e+10,1.3415e+10,NA,4.078e+09,2.41e+09,0.0602379524095181,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2018,3.7813e+10,2.6237e+10,1.1576e+10,NA,4.094e+09,2.055e+09,0.0543463888080819,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2019,3.8664e+10,2.6985e+10,1.1679e+10,NA,3.837e+09,2.107e+09,0.0544951375956963,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2020,3.5009e+10,2.5739e+10,9.27e+09,NA,3.556e+09,2.16e+09,0.0616984204061813,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2021,2.9744e+10,2.2918e+10,6.826e+09,NA,3.589e+09,1.724e+09,0.057961269499731,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2022,2.9077e+10,2.2648e+10,6.429e+09,NA,2.566e+09,1.116e+09,0.0383808508443099,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2023,2.8386e+10,2.1779e+10,6.607e+09,NA,2.12e+09,1.141e+09,0.0401958712041147,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2024,2.9965e+10,2.2725e+10,NA,NA,2.147e+09,1.618e+09,0.053996329050559,NA
+"SLB","SLB (ex-Schlumberger)","Oil & Gas","Oil & Gas",2025,2.9573e+10,2.2214e+10,7.24e+09,NA,2.312e+09,1.939e+09,0.0655665640956278,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2012,3821100000,1001600000,2819500000,NA,185500000,139300000,0.0364554709376881,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2013,4.708e+09,1.17e+09,3.538e+09,NA,1.81e+08,331900000,0.0704970263381478,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2014,5758400000,1408500000,4349900000,NA,197600000,582700000,0.101191303139761,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2015,6521100000,1696500000,4824600000,NA,271900000,1013600000,0.155433899188787,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2016,11935100000,2232400000,9702700000,NA,3.51e+08,762200000,0.0638620539417349,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2017,12518700000,2827700000,9.691e+09,NA,644500000,817200000,0.0652783435979774,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2018,14205400000,3775400000,1.043e+10,NA,757700000,562100000,0.0395694595013164,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2019,17220700000,4292300000,12928400000,NA,809500000,1297500000,0.0753453692358615,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2020,19876800000,5328300000,14548500000,NA,815900000,3114800000,0.156705304676809,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2021,2.0185e+10,8011400000,12173600000,NA,971600000,2877800000,0.14257121624969,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2023,23913200000,9698600000,14214600000,NA,870600000,505100000,0.0211222253817975,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2024,26265200000,10458800000,15806400000,NA,1.096e+09,1334300000,0.0508010599576626,NA
+"TRGP","Targa Resources","Oil & Gas","Oil & Gas",2025,29559400000,11496700000,18062700000,NA,1329600000,2385400000,0.0806985256804942,NA
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2009,2.6119e+10,4.698e+09,2.1421e+10,8.3357e+10,1.244e+09,NA,NA,8.2113e+10
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2010,2.6885e+10,5.27e+09,2.1615e+10,NA,NA,NA,NA,NA
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2011,2.8921e+10,6.252e+09,2.2669e+10,6.4516e+10,1.361e+09,NA,NA,6.3155e+10
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2012,3.2253e+10,7.076e+09,2.5177e+10,8.0357e+10,1.405e+09,NA,NA,7.8952e+10
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2013,3.4132e+10,7.832e+09,2.63e+10,1.22307e+11,1.534e+09,2.355e+09,0.068996835813899,1.20773e+11
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2014,3.3933e+10,8.226e+09,2.5707e+10,1.33349e+11,1.574e+09,2.931e+09,0.0863760940677217,1.31775e+11
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2015,3.5933e+10,9.198e+09,2.6735e+10,1.34117e+11,1.72e+09,2.121e+09,0.0590265215818329,1.32397e+11
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2016,3.6907e+10,1.0204e+10,2.6703e+10,1.24942e+11,NA,2.153e+09,0.0583358170536755,NA
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2017,3.7733e+10,1.1261e+10,2.6472e+10,NA,NA,1.618e+09,0.0428802374579281,NA
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2018,4.001e+10,1.253e+10,2.748e+10,NA,NA,NA,NA,NA
+"VLO","Valero Energy","Oil & Gas","Oil & Gas",2019,4.2473e+10,1.3625e+10,2.8848e+10,NA,NA,NA,NA,NA
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2009,NA,NA,1.7741e+10,NA,1.082e+09,NA,NA,NA
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2010,2.7625e+10,-8.981e+09,1.8644e+10,NA,1.31e+09,NA,NA,NA
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2011,1.7795e+10,6.041e+09,1.1754e+10,NA,1.469e+09,NA,NA,NA
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2012,1.9082e+10,6.502e+09,1.258e+10,5.231e+09,1.507e+09,NA,NA,3.724e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2013,2.2546e+10,7.079e+09,1.5467e+10,6.063e+09,6.61e+08,2.796e+09,0.124013128714628,5.402e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2014,2.5823e+10,7.613e+09,1.821e+10,5.874e+09,7.56e+08,2.529e+09,0.0979359485729776,5.118e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2015,3.6435e+10,8.354e+09,2.8081e+10,5.485e+09,8.15e+08,3.572e+09,0.09803760120763,4.67e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2016,3.9039e+10,9.46e+09,2.9579e+10,6.068e+09,1.176e+09,4.031e+09,0.103255718640334,4.892e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2017,3.8912e+10,1.0484e+10,2.8428e+10,7.134e+09,1.738e+09,3.167e+09,0.0813887746710526,5.396e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2018,3.9513e+10,1.1302e+10,2.8211e+10,6.81e+09,1.763e+09,2.051e+09,0.0519069673272088,5.047e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2019,3.8661e+10,1.1157e+10,2.7504e+10,7.104e+09,1.736e+09,2.399e+09,0.0620521973047774,5.368e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2020,4.151e+10,1.231e+10,2.92e+10,7.918e+09,1.725e+09,3.256e+09,0.0784389303782221,6.193e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2021,4.2489e+10,1.356e+10,2.8929e+10,6.28e+09,1.714e+09,2.109e+09,0.0496363764739109,4.566e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2022,4.4184e+10,1.4926e+10,2.9258e+10,5.517e+09,1.721e+09,1.239e+09,0.028041825095057,3.796e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2023,4.7057e+10,1.6168e+10,3.0889e+10,7.996e+09,1.842e+09,1.239e+09,0.0263297702785983,6.154e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2024,5.1842e+10,1.7531e+10,3.4311e+10,7.947e+09,2.009e+09,2.253e+09,0.0434589714902974,5.938e+09
+"WMB","Williams Companies","Oil & Gas","Oil & Gas",2025,5.7395e+10,1.8703e+10,3.8692e+10,6.596e+09,2.071e+09,2.516e+09,0.0438365711298894,4.525e+09
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2009,NA,2.3235e+10,2.4444e+10,2.5482e+10,NA,6.158e+09,NA,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2010,5.1665e+10,2.781e+10,2.3855e+10,2.7691e+10,NA,5.75e+09,0.111293912706862,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2011,5.602e+10,3.2505e+10,2.3515e+10,2.8542e+10,NA,5.117e+09,0.0913423777222421,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2012,6.4087e+10,3.6528e+10,2.7559e+10,2.9957e+10,NA,4.961e+09,0.0774103952439652,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2013,6.6657e+10,3.9425e+10,2.7232e+10,4.5121e+10,NA,5.307e+09,0.0796165443989379,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2014,7.2414e+10,4.2574e+10,2.984e+10,5.0391e+10,NA,5.714e+09,0.0789073935979231,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2015,7.6363e+10,4.541e+10,3.0953e+10,5.1094e+10,NA,6.596e+09,0.0863769102837762,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2016,8.1765e+10,4.81e+10,3.3665e+10,5.3871e+10,NA,7.42e+09,0.0907478750076439,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2017,8.5947e+10,4.9694e+10,3.6253e+10,5.8512e+10,NA,8.499e+09,0.0988865230898112,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2018,8.8386e+10,4.9916e+10,3.847e+10,6.3905e+10,NA,9.135e+09,0.103353472269364,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2019,9.5743e+10,5.1306e+10,4.4437e+10,6.7011e+10,NA,9.55e+09,0.0997461955443218,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2020,1.01561e+11,5.3239e+10,4.8322e+10,7.5498e+10,NA,9.774e+09,0.0962377290495367,NA
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2021,1.06383e+11,5.4388e+10,5.1995e+10,8.7817e+10,1.2953e+10,9.953e+09,0.0935581812883637,7.4864e+10
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2022,1.097e+11,5.56e+10,5.4047e+10,8.6071e+10,1.31e+10,9.179e+09,0.0836736554238833,7.2971e+10
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2023,1.124e+11,5.69e+10,5.5485e+10,9.5568e+10,1.3804e+10,9.174e+09,0.0816192170818505,8.1764e+10
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2024,1.184e+11,5.87e+10,5.9686e+10,1.07385e+11,1.3821e+10,1.0626e+10,0.0897466216216216,9.3564e+10
+"CMCSA","Comcast","Telecom","Servicios regulados / redes (Electrico + Telecom)",2025,1.221e+11,5.95e+10,6.2548e+10,9.8258e+10,1.4336e+10,1.2242e+10,0.10026208026208,8.3922e+10
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2009,NA,NA,NA,NA,2.1577e+10,NA,NA,NA
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2010,2.29161e+11,1.29642e+11,9.8415e+10,NA,1.9673e+10,NA,NA,NA
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2011,2.43833e+11,1.40637e+11,1.03196e+11,NA,1.9515e+10,NA,NA,NA
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2012,2.60279e+11,1.53192e+11,1.07087e+11,NA,1.9379e+10,NA,NA,NA
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2013,2.70907e+11,1.6114e+11,1.09767e+11,NA,1.8377e+10,2.011e+10,0.0742321165566043,NA
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2014,2.74798e+11,1.6383e+11,1.10968e+11,1.14437e+11,1.8143e+10,1.9465e+10,0.0708338488635289,9.6294e+10
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2015,2.82295e+11,1.69397e+11,NA,9.8e+10,1.8395e+10,2.0944e+10,0.0741918914610602,7.9605e+10
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2016,3.06227e+11,1.81777e+11,1.12898e+11,1.20235e+11,1.8273e+10,2.1199e+10,0.0692264235354818,1.01962e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2017,3.19648e+11,1.94749e+11,1.2445e+11,1.22016e+11,2.2016e+10,1.9218e+10,0.0601223846230854,1e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2018,3.13499e+11,1.88277e+11,1.24899e+11,1.40243e+11,2.5847e+10,NA,NA,1.14396e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2019,3.3069e+11,1.99217e+11,1.25222e+11,1.40576e+11,2.4387e+10,NA,NA,1.16189e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2020,NA,NA,NA,1.4466e+11,2.843e+10,NA,NA,1.1623e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2021,NA,NA,NA,1.53238e+11,2.8217e+10,NA,NA,1.25021e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2022,NA,NA,NA,1.34678e+11,2.2523e+10,NA,NA,1.12155e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2023,NA,NA,NA,1.08141e+11,1.7852e+10,NA,NA,9.0289e+10
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2024,NA,NA,NA,1.25328e+11,1.8021e+10,NA,NA,1.07307e+11
+"T","AT&T","Telecom","Servicios regulados / redes (Electrico + Telecom)",2025,NA,NA,NA,9.8967e+10,1.8777e+10,NA,NA,8.019e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2010,NA,NA,3252213000,2283749000,255319000,954612000,NA,2028430000
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2011,5069056000,1409611000,3659445000,2945227000,377856000,831674000,0.164068812812484,2567371000
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2012,5948875000,1930876000,4017999000,3350455000,449732000,790385000,0.132862936269463,2900723000
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2013,NA,1.7744e+10,1.2807e+10,2.4897e+10,2.982e+09,2.729e+09,NA,2.1915e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2014,NA,1.9649e+10,1.5349e+10,2.6116e+10,3.187e+09,2.901e+09,NA,2.2929e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2015,NA,2.1791e+10,1.6245e+10,2.3424e+10,3.627e+09,4.025e+09,NA,1.9797e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2016,NA,2.3192e+10,2e+10,2.8148e+10,4.412e+09,4.317e+09,NA,2.3736e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2017,NA,2.4779e+10,2.0943e+10,2.9988e+10,4.688e+09,4.724e+09,NA,2.53e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2018,NA,2.7301e+10,2.2196e+10,3.344e+10,6.243e+09,4.702e+09,NA,2.7197e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2019,NA,3.1297e+10,2.3359e+10,3.5716e+10,5.984e+09,5.237e+09,NA,2.9732e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2020,NA,3.3118e+10,2.1984e+10,3.8001e+10,6.486e+09,5.541e+09,NA,3.1515e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2021,NA,4.2395e+10,4.1175e+10,3.9276e+10,6.616e+09,6.391e+09,NA,3.266e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2022,NA,4.9818e+10,3.9803e+10,6.1761e+10,1.4151e+10,1.1034e+10,NA,4.761e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2023,NA,5.3102e+10,4.2086e+10,7.3226e+10,1.6383e+10,1.2326e+10,NA,5.6843e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2024,NA,5.8481e+10,4.0432e+10,7.3028e+10,1.3651e+10,1.397e+10,NA,5.9377e+10
+"TMUS","T-Mobile US","Telecom","Servicios regulados / redes (Electrico + Telecom)",2025,NA,5.6367e+10,3.8533e+10,6.4292e+10,1.2818e+10,9.801e+09,NA,5.1474e+10
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2009,2.15605e+11,1.29059e+11,8.6546e+10,7.7891e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2010,2.29743e+11,1.37758e+11,9.1985e+10,9.4742e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2011,2.11655e+11,1.23944e+11,8.7711e+10,9.183e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2012,2.15626e+11,1.27192e+11,8.8434e+10,9.192e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2013,2.09575e+11,1.20933e+11,8.8642e+10,9.7995e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2014,2.20865e+11,1.31909e+11,8.8956e+10,1.02686e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2015,2.30508e+11,1.40561e+11,8.9947e+10,8.8582e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2016,2.20163e+11,1.36622e+11,8.3541e+10,1.0748e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2017,2.32215e+11,1.47464e+11,8.4751e+10,9.856e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2018,2.46498e+11,1.5793e+11,8.8568e+10,9.6731e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2019,2.52835e+11,1.63549e+11,8.9286e+10,9.8609e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2020,2.65734e+11,1.73819e+11,9.1915e+10,1.08585e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2021,2.79737e+11,1.84904e+11,9.4833e+10,1.0149e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2022,2.89897e+11,1.90201e+11,9.9696e+10,9.9494e+10,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2023,3.07689e+11,2.00255e+11,1.07434e+11,1.01165e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2024,3.20108e+11,2.11798e+11,1.0831e+11,1.06368e+11,NA,NA,NA,NA
+"VZ","Verizon Communications","Telecom","Servicios regulados / redes (Electrico + Telecom)",2025,3.31406e+11,2.22884e+11,1.08522e+11,1.11097e+11,NA,NA,NA,NA
